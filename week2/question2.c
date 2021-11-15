@@ -9,6 +9,6 @@ for(i=1;i<=n;i++)
     fac*=i;
 
 }
-printf("FACTORIAL IS %d",fac);
+printf("FACTORIAL OF %d IS %d",n,fac);
 return 0;
 }
